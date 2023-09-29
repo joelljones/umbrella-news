@@ -1,5 +1,15 @@
 # Umbrella News
 
-News site built using CSS Grid Layout.
+News website
 
-- HTML, CSS
+![screenshot](img/screenshot.png)
+
+**Link to project:** https://joelljones.github.io/umbrella-news
+
+## 🚀 How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+## Learned:
+
+CSS Grid
